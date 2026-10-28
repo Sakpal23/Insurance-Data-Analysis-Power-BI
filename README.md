@@ -32,7 +32,6 @@ Dashboard
 ## How it was built
 
 - **Power Query:** set correct data types, added a conditional column, merged queries.
-- **DAX:** measures for premium, coverage, claim amount and claim counts.
 - **Row-Level Security (RLS):** roles limit which rows each user can see.
 - **Visuals:** bar chart, donut chart, ribbon chart, area chart, matrix, table, slicers.
 
